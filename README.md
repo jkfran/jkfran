@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jkfran&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=jkfran&redirect=true)
+
 <!--
 **jkfran/jkfran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
